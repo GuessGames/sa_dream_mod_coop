@@ -5,6 +5,8 @@ Ready-to-install files of **SA Dream Mod** (a CoopAndreas based co-op for GTA Sa
 
 ## ⬇️ [Download the launcher / Завантажити лаунчер](https://github.com/GuessGames/sa_dream_mod_coop/raw/main/SADreamLauncher.exe)
 
+## ⬇️ [Download the developer manager / Завантажити менеджер розробника](https://github.com/GuessGames/sa_dream_mod_coop/raw/main/dev/CoopAndreasManager.exe)
+
 Or the latest one on the [Releases](https://github.com/GuessGames/sa_dream_mod_coop/releases/latest) page / або на сторінці Releases.
 
 ## How to play / Як грати
@@ -16,5 +18,5 @@ Or the latest one on the [Releases](https://github.com/GuessGames/sa_dream_mod_c
 `gta_sa.exe` 1.0 US is not included (Rockstar file) — the launcher asks for it if your game needs it.
 `gta_sa.exe` 1.0 US не входить у реліз (файл Rockstar) — лаунчер попросить його, якщо потрібно.
 
-- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/8652516ad37f8f9caec6c53f44c34d5a231e3d4a
+- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/2d21a091a9ea1014c7c665a053c8bad63b573706
 - Based on [CoopAndreas](https://github.com/Tornamic/CoopAndreas) by Tornamic and contributors (GPL-3.0).
