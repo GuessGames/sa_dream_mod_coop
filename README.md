@@ -18,5 +18,5 @@ Or the latest one on the [Releases](https://github.com/GuessGames/sa_dream_mod_c
 `gta_sa.exe` 1.0 US is not included (Rockstar file) — the launcher asks for it if your game needs it.
 `gta_sa.exe` 1.0 US не входить у реліз (файл Rockstar) — лаунчер попросить його, якщо потрібно.
 
-- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/8f67f9181cf17377ee58aa5160f324e56eae80fc
+- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/2605df98be2526fbde448d0e6bf52e0f66c520e4
 - Based on [CoopAndreas](https://github.com/Tornamic/CoopAndreas) by Tornamic and contributors (GPL-3.0).
