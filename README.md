@@ -13,10 +13,10 @@ Or the latest one on the [Releases](https://github.com/GuessGames/sa_dream_mod_c
 
 1. Download `SADreamLauncher.exe` (link above) / завантажте лаунчер (посилання вище).
 2. Run it, check the game folder, press **Install** / запустіть, перевірте теку гри, натисніть **Встановити**.
-3. Enter nickname, server IP and the beta key, press **PLAY** / введіть нік, IP і ключ, натисніть **ГРАТИ**.
+3. Enter nickname and server IP, press **PLAY** / введіть нік і IP, натисніть **ГРАТИ**.
 
 `gta_sa.exe` 1.0 US is not included (Rockstar file) — the launcher asks for it if your game needs it.
 `gta_sa.exe` 1.0 US не входить у реліз (файл Rockstar) — лаунчер попросить його, якщо потрібно.
 
-- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/a643d76564bfbdc57abf7692127701674ebd9f83
+- Source code of this version (GPL-3.0): https://github.com/GuessGames/sa_dream_mod/tree/a3d18f19751e8fdea7c8928810242c265198e3d9
 - Based on [CoopAndreas](https://github.com/Tornamic/CoopAndreas) by Tornamic and contributors (GPL-3.0).
